@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"test@test.com","password":"$2a$12$ZRBlwB0KyFDmKzmij1UWY.DB.TMCDoGZR.wYWMWLNWFZsZZuvNhXC","id":"beb68dfa-3559-4676-a8cc-70f2410b07c7"},{"email":"dilanweere12345@gmail.com","password":"$2a$12$bykNyP094dfWBxRG9fNahexM8D7tKNUwHex8Yu2Bv555t5K.IInxe","id":"9cc6abc2-40d8-4aa9-9509-d0ab80ca8c9e"},{"email":"dilandds97@gmail.com","password":"$2a$12$u01vgxBgIvhE/lMp3rmWGOiXOcqqwwW27th535FU.pawtmpp/zK/y","id":"ba2e6f8d-7c47-4115-8f67-b90d8721e323"},{"email":"dilandds97@gmail.comd","password":"$2a$12$d/6FvW19xUMC89v0R/.tROyy0mHX.Omk81Ct96nYlW8htgm3K3/9i","id":"a8dff7e2-b61c-4b9c-b71a-5667442a3824"},{"email":"dwrer@asds","password":"$2a$12$zQS1wtUyv4bQsIjZ8zoSnOdjWSOxEe8kBlL6QwsIyrQQH.D8F4yie","id":"3584b58d-ef8d-46e1-b706-d22350085ba0"},{"email":"weqwew@gmail.com","password":"$2a$12$r/CkHvAkLcDME7ORwprdcO0bxDZDIm9Gj2P/VHpY9jHhAgk4GMaqy","id":"4181a289-0f9d-4bdb-9ca5-ec8eced542ee"},{"email":"wwedds123jkd@gmail.com","password":"$2a$12$nF2mHrCgohBNmkLiFQM0vubYO0QN20Q1tlA3D9Wh8a33tKr8wxieK","id":"65a40e0d-f41a-4175-9254-5a3c9eda98ed"},{"email":"wwww@eeeee","password":"$2a$12$9ZXfXZ8GkH5k66f95RFmVurPxTvWdss3hMW7A.NElF4jGZEyGzjly","id":"f2ac7ec3-526c-4fe1-a2f4-9c5c4f897538"},{"email":"mm@gmail.com","password":"$2a$12$ah2D5HPXAomQiHJEL.VXLO2CG/vwkBHeHwQozJ6WZByg1bhOEZbui","id":"ce7c25ef-046d-4563-a6e1-b7ab37e8c8d0"}]}
